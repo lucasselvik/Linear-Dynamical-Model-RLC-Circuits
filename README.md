@@ -26,6 +26,6 @@ Features
 
 Authors
 
-• Rex Paster
-• Lucas Selvik
+- Rex Paster
+- Lucas Selvik
 
