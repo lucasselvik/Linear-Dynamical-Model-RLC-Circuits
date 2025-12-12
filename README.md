@@ -14,14 +14,15 @@ This project presents a systematic approach for modeling and analyzing RC, RL, a
 
 Features
 
-• Linear Dynamical Modeling: Derived and implemented the discrete-time state-space representation for a series RLC circuit
-• Circuit Analysis & Derivations: Developed mathematical relationships to calculate component values based on key circuit properties like resonant frequency, damping ratio, and bandwidth
-• Component Behavior Study: Simulated and analyzed the complementary transient and steady-state responses of simple RC and RL circuits
-• Application-Specific Design: Tuned and simulated three distinct RLC circuit applications:
+- Linear Dynamical Modeling: Derived and implemented the discrete-time state-space representation for a series RLC circuit
+- Circuit Analysis & Derivations: Developed mathematical relationships to calculate component values based on key circuit properties like resonant frequency, damping ratio, and bandwidth
+- Component Behavior Study: Simulated and analyzed the complementary transient and steady-state responses of simple RC and RL circuits
+- Application-Specific Design: Tuned and simulated three distinct RLC circuit applications:
   - Resonator: Designed to produce a stable, sustained oscillatory output
   - Sensor: Developed to isolate and amplify a target signal from background noise
   - Filter: Tuned to reduce unwanted high and low frequencies while preserving a desired audio range
-• Simulation Validation: Demonstrated the effectiveness of discrete-time linear modeling for predicting and designing targeted circuit responses
+- Simulation Validation: Demonstrated the effectiveness of discrete-time linear modeling for predicting and designing targeted circuit responses
+
 
 Authors
 
