@@ -6,7 +6,7 @@ Project Report
 
 Read the full report here:
 [Modeling and Simulation of RC, RL, and RLC Circuits as Linear Dynamical Systems (PDF)
-](https://drive.google.com/file/d/1v0QYHoVTpk7HyGnYAoZ4PQsNM00hOW5m/view?usp=drive_link)
+](https://github.com/lucasselvik/Linear-Dynamical-Model-RLC-Circuits/blob/cb6bf0c8eeb42326fd970233e930237981058be7/Modeling%20and%20Simulation%20of%20RC%2C%20RL%2C%20and%20RLC%20Circuits%20as%20Linear%20Dynamical%20Systems.pdf)
 
 Overview
 
